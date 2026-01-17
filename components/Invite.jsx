@@ -48,7 +48,7 @@ export default function ConviteHike() {
     <main ref={ref} className="relative min-h-[200vh] overflow-hidden bg-gradient-to-b from-sky-300 via-emerald-300 to-emerald-600">
       {/* Áudio Ambiente */}
       <audio id="ambient-audio" loop >
-        <source src="/wind-nature1.mp3" type="audio/mpeg" />
+        <source src="/NOVO.mp3" type="audio/mpeg" />
       </audio>
 
       {/* Botão de som */}
